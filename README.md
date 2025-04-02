@@ -16,4 +16,4 @@ The goal of the challenge is to predict which passengers were transported to an 
 
 **Final Score**
 
-Achieved a public leaderboard score of **0.80360**, ranking 271st out of 1,955 participants (**top 15%**).
+Achieved a public leaderboard score of **0.80360**, placing in the first quartile (Q1) among 1,955 participants.
