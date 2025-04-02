@@ -1,3 +1,4 @@
+# Spaceship Titanic – Kaggle Competition
 This repository contains my solutions to the Spaceship Titanic competition on Kaggle.
 
 The goal of the challenge is to predict which passengers were transported to an alternate dimension during a mysterious interstellar incident, based on various features such as age, spending habits, and cabin location.
